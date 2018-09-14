@@ -14,8 +14,8 @@ class User extends Controller
 		if(request()->isPost())
 		{
 			$data=[
-              'uid' => input('username'),
-              'pwd' => input('password'),
+                           'uid' => input('username'),
+                           'pwd' => input('password'),
 			];
 
 
