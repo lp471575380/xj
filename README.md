@@ -2,7 +2,7 @@ ThinkPHP 5.0
 ===============
 
 
-使用ThinkPHP 5打造的全新o2o平台
+使用ThinkPHP5   打造的全新o2o平台
 
 作者：李鹏      邮箱:471575380@qq.com
 
